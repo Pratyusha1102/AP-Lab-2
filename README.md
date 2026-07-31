@@ -1,2 +1,4 @@
 # AP-Lab-2
-This repository contains ...
+
+This repository contains lab exercises
+
